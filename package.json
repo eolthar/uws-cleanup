@@ -1,0 +1,7 @@
+{
+    "name": "uws-cleanup",
+    "description": "A small utility to safely clean up unnecessary uWebSockets.js binaries and keep only the correct one for your system",
+    "version": "1.0.0",
+    "main": "main.js",
+    "author": "Mlad (https://github.com/eolthar)"
+}
